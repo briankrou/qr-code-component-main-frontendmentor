@@ -62,17 +62,3 @@ main .card p{
     color: hsl(216, 15%, 48%) ;
 }
 
-@media ( min-width: 768px ) {
-    .card-image img{
-        width: 250px;
-        height: 250px;
-    }
-    .card-title{
-        font-size: 20px;
-    }
-    .card-text{
-        font-size: 14px;
-        font-weight: 400;
-    }
-    
-}
